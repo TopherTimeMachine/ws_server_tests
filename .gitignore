@@ -1,0 +1,8 @@
+node_modules/
+dist/
+target/
+_build/
+deps/
+sh/logs/
+cpp-server/build/
+go-server/speed_server

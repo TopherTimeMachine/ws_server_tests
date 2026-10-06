@@ -1,5 +1,9 @@
 # WebSocket speed test: Node.js vs Rust vs Elixir vs Bun vs Go vs C++
 
+
+![screen_shot](docs/screen_shot.png)
+
+
 Six equivalent WebSocket servers and one Svelte client that benchmarks them.
 
 | Project          | Stack                         | Port | Run                                              |
